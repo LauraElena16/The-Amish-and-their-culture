@@ -1,7 +1,7 @@
 # The-Amish-and-their-culture
 This is a website about the Amish people and their culture. I made this project using Nicepage tool for building websites.
 
-##Screenshots
+## Screenshots
 
 ![Web capture_18-3-2023_152423_](https://user-images.githubusercontent.com/127934042/226109095-8d2cbf9b-a0a6-4a3c-b062-b642e75025b8.jpeg)
 
